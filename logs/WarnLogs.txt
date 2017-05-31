@@ -1,0 +1,3 @@
+2017-05-16 20:23:22 ERROR initialization: Fileresources\files\violet.txt broken or wasn't found 
+2017-05-20 16:37:03 ERROR initialization: File resourcesiles\carnation.txt broken or wasn't found 
+2017-05-20 16:37:17 ERROR initialization: File resources\files\violet.txt broken or wasn't found 
