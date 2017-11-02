@@ -14,7 +14,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             menu.printOptions();
-            System.out.print("Your choise:");
+            System.out.print("Your's choise:");
             int choise = scanner.nextInt();
             if(choise<menu.getSize()) menu.makeChoice(choise);
         }
