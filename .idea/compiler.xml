@@ -9,7 +9,7 @@
         <module name="Flowers" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
+    <bytecodeTargetLevel>
       <module name="Flowers" target="1.5" />
     </bytecodeTargetLevel>
   </component>
